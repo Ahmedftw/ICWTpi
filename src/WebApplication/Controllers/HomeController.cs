@@ -16,7 +16,7 @@ namespace WebApplication.Controllers
 
             OffenceModel offence = new OffenceModel()
             {
-                nom = "Ahmed",
+                nom = "lachheb",
                 prenom = "Ahmedd"
             };
             return View(offence);
